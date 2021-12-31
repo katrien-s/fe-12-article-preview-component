@@ -56,6 +56,6 @@ Animation. But I didn't quite look into that yet.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Katrien S.](https://www.katriens.be)
+- Frontend Mentor - [@graficdoctor](https://www.frontendmentor.io/profile/graficdoctor)
 - Twitter - [@graficdoctor](https://www.twitter.com/yourusername)
