@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot_desktop.jpg)
-![](./screenshot_mobile.jpg)
+![](./screenshot-desktop.jpg)
+![](./screenshot-mobile.jpg)
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/graficdoctor/front-end-mentor-challenges/tree/main/12-article-preview-component)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/graficdoctor/fe-12-article-preview-component)
+- Live Site URL: [Vercel](https://fe-12-article-preview-component.vercel.app/)
 
 ## My process
 
