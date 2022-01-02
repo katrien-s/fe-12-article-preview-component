@@ -35,7 +35,7 @@ body {
   background-color: var(--color-primary-800);
 }
 
-article {
+main {
   width: 327px;
   background-color: var(--color-neutral-900);
   border-radius: 10px;
@@ -59,13 +59,13 @@ article {
 
 /* Typography */
 
-h3 {
+h1 {
   color: var(--color-primary-100);
   font-size: 1.5em;
   font-weight: 700;
 }
 
-h3 ~ p {
+h1 ~ p {
   margin-top: 0.8em;
 }
 
@@ -161,7 +161,7 @@ ul {
 /* Desktop View */
 
 @media (min-width: 48em) {
-  article {
+  main {
     display: flex;
     width: 730px;
   }
