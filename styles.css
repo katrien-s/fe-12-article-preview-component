@@ -198,10 +198,6 @@ ul {
 /* Desktop View */
 
 @media (min-width: 40em) {
-	.wrapper {
-		outline: 1px solid green;
-	}
-
 	.social-media-icons {
 		position: absolute;
 		left: 100%;
